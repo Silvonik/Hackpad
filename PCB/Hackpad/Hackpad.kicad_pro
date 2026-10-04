@@ -524,9 +524,9 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "C:/Projects/Hardware/Hackpad/Hackpad/PRODUCTION/gerber/",
+      "plot": "C:/Projects/Hardware/Hackpad/Hackpad/PRODUCTION/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Hackpad.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""

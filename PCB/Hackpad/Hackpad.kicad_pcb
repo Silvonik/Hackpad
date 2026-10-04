@@ -84,7 +84,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "C:/Projects/Hardware/Hackpad/Hackpad/PRODUCTION/gerber/")
+			(outputdirectory "C:/Projects/Hardware/Hackpad/Hackpad/PRODUCTION/")
 		)
 	)
 	(footprint "footprints:XIAO-Generic-Hybrid-14P-2.54-21X17.8MM"

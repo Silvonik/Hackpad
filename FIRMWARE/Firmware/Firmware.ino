@@ -3,9 +3,9 @@
 const int NUM_KEYS = 6;
 const int keyPins[NUM_KEYS] = {D0, D1, D2, D3, D4, D5};
 
-const char keyMap[NUM_KEYS] = {'c', 'v', 'x', 'z', 'y', 's'};
+const char keyMap[NUM_KEYS] = {'a', 'c', 'v', 'z', 'y', 's'};
 
-bool keyState[NUM_KEYS] ={false};
+bool keyState[NUM_KEYS] ={false};  
 
 void setup() {
   for (int i = 0; i < NUM_KEYS; i++){
