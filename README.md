@@ -31,6 +31,8 @@ When building the Hackpad I learned how to make a PCB, use Kicad, make a schemat
 These skills will help me in my future hardware projects so much!
 
 ## Photos
-![alt text](https://github.com/Silvonik/Hackpad/blob/main/assets/Case.png)
+![alt text](https://github.com/Silvonik/Hackpad/blob/main/assets/Case.jpg)
 ![alt text](https://github.com/Silvonik/Hackpad/blob/main/assets/Schematic.png)
+![alt text](https://github.com/Silvonik/Hackpad/blob/main/assets/RealP.jpg)
 ![alt text](https://github.com/Silvonik/Hackpad/blob/main/assets/Pcb.png)
+![alt text](https://github.com/Silvonik/Hackpad/blob/main/assets/Xiao.jpg)
